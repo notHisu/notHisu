@@ -4,7 +4,7 @@
 
 > ah 8 hours sleep is a myth, depression is real, and caffeine is my only friend - Michael
 
-I'm a 4th-year IT student currently speedrunning my way straight into unemployment with the grace of a null pointer exception. I write code that occasionally works on the first try (those are good days), but mostly I'm just moving bugs around like I'm playing whack-a-mole with my codebase.
+I'm a 4th-year IT student currently speedrunning my way straight into unemployment. I write code that occasionally works on the first try (those are good days), but mostly I'm just moving bugs around like I'm playing whack-a-mole with my codebase.
 
 When I'm not fighting with my IDE or Googling "why doesn't this work" for the 47th time today, you'll find me watching anime and pretending that fictional characters have their lives more together than I do.
 
